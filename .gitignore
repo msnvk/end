@@ -1,0 +1,9 @@
+build
+node_modules
+node_modules/*
+build/*
+.vscode
+.fleet
+.code
+.idea
+.svelte-kit
